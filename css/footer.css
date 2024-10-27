@@ -1,0 +1,18 @@
+.footer {
+    background-color: white;
+    padding: 15px 0;
+    text-align: center;
+    font-family: "Lucida Grande", Helvetica, Roboto, sans-serif;
+}
+
+.footer-links a {
+    color: #02254a;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-copyright {
+    margin-top: 10px;
+    font-size: 10px;
+    color: #999;
+}
