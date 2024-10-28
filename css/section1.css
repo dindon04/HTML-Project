@@ -1,4 +1,4 @@
-.collaboration {
+ .collaboration {
     padding: 50px 20px;
     text-align: center;
 }
@@ -10,9 +10,12 @@
 }
 
 small {
-    font-size: 20px;
-    font-family: "Lucida Grande", Helvetica, Roboto, sans-serif; 
+    font-size: 23.4px;
+    font-family: "Lucida Grande", Helvetica, Roboto, sans-serif;
+    font-weight: normal; 
+    color: #666;
 }
+
 
 .section-subtitle {
     max-width: 1200px;
@@ -54,6 +57,6 @@ small {
 
 .image-box p {
     font-size: 16px;
-    color: #555;
+    color: rgb(149, 149, 149);
     font-family: "Lucida Grande", Helvetica, Roboto, sans-serif;
 }
